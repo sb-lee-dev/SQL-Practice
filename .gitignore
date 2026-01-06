@@ -1,0 +1,14 @@
+# PostgreSQL dumps
+*.tar
+*.dump
+*.backup
+
+# pgAdmin
+.pgadmin/
+
+# Env / credentials
+.env
+
+# OS
+.DS_Store
+Thumbs.db
